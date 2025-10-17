@@ -15,6 +15,8 @@ public class MyUtilsTest {
         assertFalse(MyUtils.esTraspas(2019));
         assertTrue(MyUtils.esTraspas(2000));
         assertFalse(MyUtils.esTraspas(1900));
+        assertFalse(MyUtils.esTraspas(1111));
+        
     }
 
     @Test
