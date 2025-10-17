@@ -9,7 +9,18 @@ public class MyUtils {
     public static boolean esTraspas(int any) {
         return (any % 4 == 0 && any % 100 != 0) || (any % 400 == 0);
         // Comentari, esteu a 2n curs, si escriviu un if aquí plantejeu passar-vos a cures auxiliars d'infermeria..
-    }
+    }        // Comentari, esteu a 2n curs, si escriviu un if aquí plantejeu passar-vos a cures auxiliars d'infermeria..
+        // Comentari, esteu a 2n curs, si escriviu un if aquí plantejeu passar-vos a cures auxiliars d'infermeria..
+        // Comentari, esteu a 2n curs, si escriviu un if aquí plantejeu passar-vos a cures auxiliars d'infermeria..
+        // Comentari, esteu a 2n curs, si escriviu un if aquí plantejeu passar-vos a cures auxiliars d'infermeria..
+        // Comentari, esteu a 2n curs, si escriviu un if aquí plantejeu passar-vos a cures auxiliars d'infermeria..
+        // Comentari, esteu a 2n curs, si escriviu un if aquí plantejeu passar-vos a cures auxiliars d'infermeria..
+        // Comentari, esteu a 2n curs, si escriviu un if aquí plantejeu passar-vos a cures auxiliars d'infermeria..
+        // Comentari, esteu a 2n curs, si escriviu un if aquí plantejeu passar-vos a cures auxiliars d'infermeria..
+        // Comentari, esteu a 2n curs, si escriviu un if aquí plantejeu passar-vos a cures auxiliars d'infermeria..
+        // Comentari, esteu a 2n curs, si escriviu un if aquí plantejeu passar-vos a cures auxiliars d'infermeria..
+        // Comentari, esteu a 2n curs, si escriviu un if aquí plantejeu passar-vos a cures auxiliars d'infermeria..
+
 
     public static boolean esPrimer(int n) {
         if (n <= 1) return false;
